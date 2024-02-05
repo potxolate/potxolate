@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @potxolate
 - 👀 I’m interested in code
-- 🌱 I’m currently learning git
-- 📫 How to reach me :
+- 🌱 I’m currently learning Vitest
+- 📫 How to reach me : 
 
 <!---
 potxolate/potxolate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
