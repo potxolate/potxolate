@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @potxolate
 - 👀 I’m interested in code
-- 🌱 I’m currently learning Odoo
+- 🌱 I’m currently learning Odoo and Laravel
 - 📫 How to reach me : 
 
 <!---
